@@ -24,9 +24,7 @@ This repository contains a Django project that implements a simple user authenti
 ```bash
 myenv\Scripts\activate
 ```
-```bash
-cd website
-```
+
 ```bash
 python manage.py runserver
 ```
